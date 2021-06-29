@@ -1,6 +1,20 @@
 # Description
 
 This repository contains the test data used for my Bachelor's Thesis about Sexism Detection in German Tweets. The data is drawn from the first ~2000 tweets in the Germeval 2018 training set  [1]. 
+\begin{table}[h]
+\centering
+\begin{tabular}{| c | c | c |}
+\hline
+\multicolumn{3}{| c |}{\textbf{German test data}}
+\\ \hline
+\textbf{total} & \textbf{none}  & \textbf{sexism}
+\\ \hline
+250 & 200  & 50
+\\ \hline
+\end{tabular}
+\caption{Class distribution in German \textit{test set}}
+\label{table:test_distribution}
+\end{table}
 
 ## Annotation
 
