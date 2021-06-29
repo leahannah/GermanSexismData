@@ -3,13 +3,9 @@
 This repository contains the test data used for my Bachelor's Thesis about Sexism Detection in German Tweets. The data is drawn from the first ~2000 tweets in the Germeval 2018 training set  [1]. 
 The labels in the data are distributed as follows: 
 
-<div class="tabular">
-
-\| c \| c \| c \|  
-**total** & **none** & **sexism**  
-& 200 & 50  
-
-</div>
+| total  | none    | sexism |
+| ------ | ------- | ------ |
+| 250    | 200     | 50     |
 
 
 ## Annotation
